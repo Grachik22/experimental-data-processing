@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "solve.C": "cpp",
+        "ostream": "cpp"
+    }
+}
